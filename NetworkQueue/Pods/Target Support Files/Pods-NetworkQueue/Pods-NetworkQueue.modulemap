@@ -1,0 +1,6 @@
+framework module Pods_NetworkQueue {
+  umbrella header "Pods-NetworkQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}
